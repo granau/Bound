@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bound</string>
+    <string name="sild">手指滑动区</string>
+    <string name="own">W</string>
+    <string name="one">O</string>
+    <string name="two">T</string>
+    <string name="three">H</string>
+    <string name="four">F</string>
+    <string name="five">I</string>
+    <string name="right">R</string>
+    <string name="left">L</string>
+    <string name="expend">X</string>
+    <string name="impend">M</string>
+    <string name="stop">S</string>
+    <string name="go">G</string>
+</resources>

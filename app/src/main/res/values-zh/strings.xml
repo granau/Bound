@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bound</string>
+    <string name="sild">手指滑动区</string>
+    <string name="own">独</string>
+    <string name="one">一</string>
+    <string name="right">正</string>
+    <string name="left">反</string>
+    <string name="expend">扩</string>
+    <string name="impend">收</string>
+    <string name="stop">停</string>
+    <string name="go">走</string>
+    <string name="five">五</string>
+    <string name="four">四</string>
+    <string name="two">二</string>
+    <string name="three">三</string>
+</resources>
