@@ -13,9 +13,11 @@
 >             };
 
 #### 下面是一些游戏场景图:
-<img width="400" height="240" src="./gameres/g1.png/>
-<img width="400" height="240" src="./gameres/g2.png/>
-<img width="400" height="240" src="./gameres/g3.png/>
+<div>
+<img width="400" height="240" src="./gameres/g1.png" />
+<img width="400" height="240" src="./gameres/g2.png" />
+<img width="400" height="240" src="./gameres/g3.png" />
+</div>
 
 > #### 下面是一个已打包的.apk
 > 你可以点[这儿](https://raw.githubusercontent.com/granau/Bound/master/app/release/app-release.apk)去下载安装
