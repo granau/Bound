@@ -13,7 +13,7 @@
 >             };
 
 #### 下面是一些游戏场景图:
-![游戏图1](./gameres/g1.png) ![游戏图2](./gameres/g2.png) ![游戏图3](./gameres/g3.png)
+![游戏图1](./gameres/g1.png =398) ![游戏图2](./gameres/g2.png =398) ![游戏图3](./gameres/g3.png =398)
 
 > #### 下面是一个已打包的.apk
 > 你可以点[这儿](https://raw.githubusercontent.com/granau/Bound/master/app/release/app-release.apk)去下载安装
