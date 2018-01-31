@@ -14,7 +14,7 @@
 
 #### 下面是一些游戏场景图:
 <div align = center>
-![游戏图1](./gameres/g1.png){:height="400" width="240"} ![游戏图2](./gameres/g2.png){:height="400" width="240"} ![游戏图3](./gameres/g3.png){:height="400" width="240"}
+![游戏图1](./gameres/g1.png) ![游戏图2](./gameres/g2.png) ![游戏图3](./gameres/g3.png)
   </div>
 
 > #### 下面是一个已打包的.apk
