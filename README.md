@@ -15,7 +15,6 @@
 #### 下面是一些游戏场景图:
 <div>
 <img width="400" height="240" src="./gameres/g1.png" />
-<img width="400" height="240" src="./gameres/g2.png" />
 <img width="400" height="240" src="./gameres/g3.png" />
 </div>
 
